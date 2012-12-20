@@ -1,4 +1,8 @@
 Arduino
 =======
 
-Projekte zu Arduino mit Quellcode und Freebooks
+Projekte zu Arduino / Flyduino / Multicopter
+
+Dr. Christoph Reuter 2012
+
+
